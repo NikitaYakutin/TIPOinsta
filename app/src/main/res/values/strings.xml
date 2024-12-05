@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sosogram</string>
+    <string name="title_activity_sign">SignActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_image_viewer">ImageViewerActivity</string>
+    <string name="title_activity_post_creation">PostCreationActivity</string>
+</resources>
