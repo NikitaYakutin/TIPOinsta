@@ -22,8 +22,8 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.withContext
 import java.time.format.DateTimeFormatter
 
-const val URL = "https://wljusmoidtcnnstitdqh.supabase.co"
-private const val KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndsanVzbW9pZHRjbm5zdGl0ZHFoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzIyNjcxNDEsImV4cCI6MjA0Nzg0MzE0MX0.NROSMZ8Iq46LGA8uACuk_arfjCHgH94GnbxcbcnwvOQ"
+const val URL = ""
+private const val KEY = ""
 
 class AppLifecycleObserver(
     private val onEnterForeground: () -> Unit,
